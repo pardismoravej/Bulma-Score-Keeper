@@ -1,3 +1,3 @@
 # Bulma-Score-Keeper
 
-Simple score keeping app
+Simple score keeping app -- locally hosted
